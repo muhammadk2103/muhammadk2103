@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on crwn-clothing<br><br>🌱 I’m currently learning Express, React, TypeScript<br><br>🤝 I’m looking for help with project-nasa<br><br>👨‍💻 All of my projects are available at https://github.com/muhammadk2103<br><br>💬 Ask me about react and express<br><br>📫 How to reach me  muhammadk2103@gmail.com
+# 💫  |            About Me:            |
+🔭 I’m currently working on crwn-clothing<br><br>🌱 I’m currently learning Express, React, TypeScript<br><br>🤝 I’m looking for help with project-nasa<br><br>👨‍💻 All of my projects are available at https://github.com/muhammadk2103<br><br>💬 Ask me about react and express<br><br>📫 How to reach me: <br><br>📧 muhammadk2103@gmail.com 📲 https://t.me/Muhammadk2103
 
 
 ## 🌐 Socials:
